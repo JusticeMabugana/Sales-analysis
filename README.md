@@ -20,8 +20,8 @@ These fields provide a practical foundation for performing time-series analysis,
 
 - The average price is R37.07
 - We calculated the Price elasticity of demand to determine the change in demand in relation to the change in price.
-  
-
+- Below is a snippet of the results by quaters
+  ![Visuals]()
 
   ## Tools used
 
