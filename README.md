@@ -16,8 +16,15 @@ Quantity Sold – The number of units sold that day
 
 These fields provide a practical foundation for performing time-series analysis, profitability assessments, forecasting, and general data exploration. The dataset can be used to illustrate data cleaning, feature engineering, visualisation techniques, as well as basic financial and statistical modelling within a retail context.
 
+## Insights
+
+- The average price is R37.07
+- We calculated the Price elasticity of demand to determine the change in demand in relation to the change in price.
+  
+
+
   ## Tools used
 
   - Google (Research)
   - Canva (Slides)
-  
+  - Databricks (SQL)
